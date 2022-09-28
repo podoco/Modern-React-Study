@@ -1,11 +1,12 @@
 # ⭐ UseState
 
 * 화살표함수
-형태
+
 const funcName () => {
 //body
 }
-리액트에서 이벤트 설정을 주로 "on이벤트이름={함수이름}" 형태로 작성한다.
+
+* 리액트에서 이벤트 설정을 주로 "on이벤트이름={함수이름}" 형태로 작성한다.
 
 * state 선언 방식
   const [number, setNumber] = useState(0);
